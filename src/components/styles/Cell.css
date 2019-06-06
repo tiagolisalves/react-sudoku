@@ -1,0 +1,5 @@
+.cell {
+	box-sizing: border-box;
+	display: inline-block;
+	border: solid 1px black;
+}
